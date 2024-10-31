@@ -42,5 +42,5 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 -   UA | Ukraine, _Fluent_
 -   US | English, _Pre-Intermediate_
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img src="assets/github-snake.svg" alt="snake"/>
 </p>
