@@ -40,7 +40,7 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 
 <div class="shake">
 
-<p align="center">
+<p width=846 align="center">
  <img src="assets/github-snake.svg" alt="snake"/>
 </p>
 </div>
