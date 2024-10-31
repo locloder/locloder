@@ -34,6 +34,7 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 
 ![HTML - _Basic_](https://img.shields.io/badge/HTML-Basic-E96228?style=for-the-badge&logo=html5&labelColor=DD4B25&logoColor=white) 
 ![CSS - _Basic_](https://img.shields.io/badge/CSS-Basic-254BDD?style=for-the-badge&logo=css3&labelColor=2862E9&logoColor=white) 
+![JavaScript - Basic](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&labelColor=3C3D37&logoColor=white)
 
 </div>
 
