@@ -21,7 +21,7 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 я 19-річний початковий веб-розробник, який захоплюється вирішенням проблем та технологіями. Люблю вчитися та саморозвиватися. Зацікавлений у співпраці над проектами з веб-розробки. У вільний час я слухаю музику в навушниках, блукаючи темним містом.
 
 ## Skills
-<div>
+<div align="center">
 
 ### UI Design
 
@@ -31,10 +31,10 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 </div>
 
 ## My Github Stats
-<div align="center">
+<div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=locloder&theme=react&hide_border=true&border_radius=6)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=locloder&show_icons=true&theme=react&hide_border=true&border_radius=6&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=locloder&show_icons=true&theme=react&hide_border=true&border_radius=60)
 </div>
 
 
