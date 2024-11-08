@@ -31,7 +31,7 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 </div>
 
 ## My Github Stats
-<div>
+<div alighn="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=locloder&show_icons=true&theme=react&hide_border=true&border_radius=6)
 
