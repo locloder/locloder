@@ -35,6 +35,7 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=locloder&theme=react&hide_border=true&border_radius=6&card_width=375&card_height=195) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=locloder&show_icons=true&theme=react&hide_border=true&border_radius=6)
+
 </div>
 
 
