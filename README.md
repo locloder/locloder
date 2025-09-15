@@ -8,7 +8,7 @@
 ## Personal Information
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&labelColor=3C3D37)](https://instagram.com/my_makarenko)
+[![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&labelColor=3C3D37)](https://instagram.com/makar.0777)
 [![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&labelColor=3C3D37)](https://t.me/baby_support)
 [![Static Badge](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=Steam&labelColor=3C3D37)](https://steamcommunity.com/id/locloder)
 [![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=Github&labelColor=3C3D37)](https://github.com/locloder)
