@@ -47,5 +47,5 @@ I'm a 19-year-old junior web developer with a passion for problem solving and te
 
 ## Languages
 -   UA | Ukraine, _Fluent_
--   US | English, _Pre-Intermediate_
+-   US | English, _Pre-Intermediateу_
 
